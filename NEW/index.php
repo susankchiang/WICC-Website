@@ -1,42 +1,42 @@
+
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Women in Computing at Cornell</title>
-    <link rel="stylesheet" href="../css/foundation.css" />
-    <link rel="stylesheet" href="../css/style.css" />
-    <script src="../js/modernizr.js"></script>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/modernizr.js"></script>
   </head>
   <body>
 
-    <div class="row">
-      <div class="large-2 columns">
-        <h1><a href="index.html"><img src="../img/wicc-logo.jpg"></a></h1>
-      </div>
-      <div class="large-7 columns">
-        <p></p>
-      </div>
-      <div class="large-1 columns">
-        <h1><a href="#">FB</a></h1>
-      </div>
-      <div class="large-1 columns">
-        <h1><a href="https://twitter.com/CornellACSUW">T</a></h1>
-      </div>
-      <div class="large-1 columns">
-        <h1><a href="#">Mail</a></h1>
-      </div>
-    </div>
+  <div class="header">
+    <h1>Women in Computing at Cornell</h1>
+  </div>
 
     <div class="row">
       <?php include 'menu.html' ?>
 
       <div class="large-10 columns">
-        <ul class="example-orbit-content" data-orbit>
-          <li data-orbit-slide="headline-1">
-            <div>
-              <h2>Sample Headline 1</h2>
-              <h3>Subheadline</h3>
+        <ul class="example-orbit" data-orbit 
+          data-options = "annimation_speed: 500;">
+          <li>
+            <img src = "img/group.jpg" alt = "slide 1" />
+            <div class = "orbit-caption">
+              Group Picture
+            </div>
+          </li>
+          <li>
+            <img src = "img/group3.jpg" alt = "slide 1" />
+            <div class = "orbit-caption">
+              Group Picture
+            </div>
+          </li>
+          <li>
+            <img src = "img/group4.jpg" alt = "slide 1" />
+            <div class = "orbit-caption">
+              Jisha and Additi
             </div>
           </li>
         </ul>
@@ -85,17 +85,17 @@
 
       <div class="large-10 columns">
         <div class="large-4 columns">
-          <img src="../img/testimage.png">
+          <img src="img/testimage.png">
           <h3 class="centerheader">Career Development</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis vehicula purus vitae eleifend. Nullam fringilla ultrices diam non dapibus. Nam eget sodales purus. </p>
         </div>
         <div class="large-4 columns">
-          <img src="../img/testimage.png">
+          <img src="img/testimage.png">
           <h3 class="centerheader">Community Building</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis vehicula purus vitae eleifend. Nullam fringilla ultrices diam non dapibus. Nam eget sodales purus.</p>
         </div>
         <div class="large-4 columns">
-          <img src="../img/testimage.png">
+          <img src="img/testimage.png">
           <h3 class="centerheader">Outreach</h3>
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis vehicula purus vitae eleifend. Nullam fringilla ultrices diam non dapibus. Nam eget sodales purus.</p>
         </div>
@@ -105,12 +105,11 @@
 
 
 
-    <script src="../js/jquery.js"></script>
-    <script src="../js/foundation.min.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
     <script>
       $(document).foundation();
     </script>
-
 
   </body>
 </html>
