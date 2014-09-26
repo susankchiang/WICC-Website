@@ -7,6 +7,7 @@
     <title>Women in Computing at Cornell</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
     <script src="js/modernizr.js"></script>
   </head>
   <body>
@@ -48,8 +49,10 @@
       </div>
        <div class="large-10 columns">
           <h1>Vision</h1>
-          <p>Our goal is to bring together the women in computing at Cornell. We seek to expand the opportunities and successes of women in CS. We hope to encourage prospective computer science majors, and provide direction and assistance to current computer science students. We seek to create a network for women undergraduates, faculty, and staff, and promote interaction on academic, social and professional issues. We plan on hosting activities to educate women about the opportunities in the computing field and connecting students with women leaders in the field. We hope to broaden the computing community and extend the “conversation” about why it’s important to increase the number of women in computing.</p>
-       </div>
+          <p>Our goal is to bring together the women in computing at Cornell. We seek not only to encourage prospective 
+            women and to expand their opportunities, but also to provide support to existing women in computing fields so that they can carve their own 
+            paths in CS.</p>
+          </div>
     </div>
 
     <div class="row">
@@ -57,14 +60,14 @@
         <p></p> <!--to account for horizontal nav--> 
       </div>
 
-     <div class="large-6 columns">
-        <h2>Video Here</h2>
+     <div class="large-10 columns">
+      <h1>Who We Are</h1>
+        <iframe width="500" height="290" src="//www.youtube.com/embed/5ctRcy_kL1Q?rel=0" frameborder="0" allowfullscreen></iframe>
+        <br><br>
      </div>
 
-      <div class="large-4 columns">
-        <p>Video discription will go here.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec sem in justo aliquam pretium. Nam sed leo metus. Vestibulum tristique, eros vel venenatis tincidunt, est justo vehicula velit, nec pellentesque mi purus sed lacus. Fusce id nibh at lectus porta tincidunt. </p>
-      </div>
+
+
 
     </div>
 
@@ -85,19 +88,26 @@
 
       <div class="large-10 columns">
         <div class="large-4 columns">
-          <img src="img/testimage.png">
+          <img src="img/career.jpg">
           <h3 class="centerheader">Career Development</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis vehicula purus vitae eleifend. Nullam fringilla ultrices diam non dapibus. Nam eget sodales purus. </p>
+          <p>Expanding opportunities and providing career support by
+          publicizing opportunities for women, hosting alumni women panels, tech talks and 
+          networking events with companies.</p>
         </div>
         <div class="large-4 columns">
-          <img src="img/testimage.png">
+          <img src="img/community.jpg">
           <h3 class="centerheader">Community Building</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis vehicula purus vitae eleifend. Nullam fringilla ultrices diam non dapibus. Nam eget sodales purus.</p>
-        </div>
+          <p>Building a sense of community among women in computing fields
+          at Cornell through social and networking events, informative and inspirational student 
+          internship panels, and a mentorship program.</p>
+          </div>
         <div class="large-4 columns">
-          <img src="img/testimage.png">
+          <img src="img/outreach.jpg">
           <h3 class="centerheader">Outreach</h3>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis vehicula purus vitae eleifend. Nullam fringilla ultrices diam non dapibus. Nam eget sodales purus.</p>
+          <p>Extending our influence by inspiring young girls
+          to pursue computing fields, supporting scholarships 
+          for the Grace Hopper Conference, and running weekly Computer Science workshops 
+          (LearnCS) held at Cornell for girls in the Ithaca area.</p>
         </div>
       </div>
     </div>

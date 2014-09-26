@@ -6,18 +6,21 @@
     <title>Women in Computing at Cornell</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
     <script src="js/modernizr.js"></script>
   </head>
   <body>
     <div class="header">
-      <h1>Join</h1>
+      <h1>Join Us</h1>
     </div>
 
     <div class="row">
       <?php include 'menu.html' ?>
 
       <div class="large-10 columns">
-          <h2> <a href="#">Link to Join</a>
+          Want to join WICC? Sign up to receive notifications about all of our events.
+          <br><br><br>
+          <a class="button" href="https://docs.google.com/a/cornell.edu/forms/d/1VLRzezmaTLXU-k8zregnfkLVoQtFOTMVcw4cmh9J6D4/viewform">Sign Up</a>
        </div>
       </div>
 

@@ -6,6 +6,7 @@
     <title>Women in Computing at Cornell</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
     <script src="js/modernizr.js"></script>
   </head>
   <body>

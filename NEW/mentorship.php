@@ -6,6 +6,7 @@
     <title>Women in Computing at Cornell</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
     <script src="js/modernizr.js"></script>
   </head>
   <body>
@@ -17,14 +18,21 @@
       <?php include 'menu.html' ?>
 
       <div class="large-10 columns">
-          <h1>Who Can be a Mentor?</h1>
-          <p>Motivated undergraduates, graduate students, and grads majoring in or working CS or related technical fields.</p>
 
-          <h1>What is required of mentors?</h1>
-          <p>As a mentor you are expected to hold conversations with your mentee monthly, help your mentee establish meaningful connections, give her advice on course selection, or otherwise. The goal of the mentorship program is to motivate young women with interest in computing. </p>
+        <p>Our mentorship program strives encourage and aid women pursuing studies or future employment in 
+        computing by connecting female undergraduates with more experienced upperclassmen and alumni mentors. 
+        The role of the mentor is to cultivate and enhance their mentees' interest in computer science. </p>
 
-          <h1><a href="#">Sign up to be mentor.</a></h1>
-          <h1><a href="#">Sign up to be a mentee.</a></h1>
+        <p>Mentors and mentees will be matched primarily based on academic interests. Mentees can also request 
+          mentors, and we will do our best to honor these requests.</p>
+
+        <h1>Become a Mentor</h1>
+        <p>As a mentor you are expected to hold conversations with your mentee monthly, help your mentee establish 
+          meaningful connections, give her advice on course selection, or otherwise. 
+          Any motivated undergraduates, graduate students, and grads majoring in or working CS or related technical fields can sign-up as a mentor.</p>
+
+        <h1>Get a Mentor</h1>
+
        </div>
       </div>
 
