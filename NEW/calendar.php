@@ -22,6 +22,7 @@
           <p></p>
           <iframe src="http://www.google.com/calendar/embed?src=cornell.edu_4q9m4m96lo8joog12ibaou7e4k%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
        </div>
+      <?php include 'footer.html' ?>
       </div>
 
     <script src="js/jquery.js"></script>

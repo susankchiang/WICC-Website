@@ -34,6 +34,7 @@
         <h1>Get a Mentor</h1>
 
        </div>
+       <?php include 'footer.html' ?>
       </div>
 
 

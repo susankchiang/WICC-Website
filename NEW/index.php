@@ -110,6 +110,7 @@
           (LearnCS) held at Cornell for girls in the Ithaca area.</p>
         </div>
       </div>
+      <?php include 'footer.html' ?>
     </div>
 
 

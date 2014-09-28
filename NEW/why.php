@@ -19,8 +19,16 @@
       <?php include 'menu.html' ?>
 
       <div class="large-10 columns">
+        <div class="section">
+           <h1>What Most Schools Don't Teach</h1>
            <iframe width="853" height="480" src="//www.youtube.com/embed/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
        </div>
+       <div class="section">
+         <h1>Girls in a Tech World</h1>
+         <iframe width="853" height="480" src="//www.youtube.com/embed/DYBPotROKC8?rel=0" frameborder="0" allowfullscreen></iframe>
+       </div>
+       </div>
+       <?php include 'footer.html' ?>
       </div>
 
     <script src="js/jquery.js"></script>

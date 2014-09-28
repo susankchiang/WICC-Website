@@ -19,28 +19,60 @@
       <?php include 'menu.html' ?>
 
       <div class="large-10 columns">
-        <div class="row">
-          <div class="large-3 columns">
-            <img src="img/testimage.png">
-          </div> 
-          <div class="large-9 columns">
-            <h1>Sample Resource</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id urna eu tellus vestibulum viverra. Mauris ac nulla dolor. Proin quam tortor, sollicitudin vitae magna vel, pellentesque varius elit. Fusce quis nulla nisl. Morbi sagittis nulla egestas interdum elementum. Sed interdum interdum felis. Nunc eget faucibus nibh. Ut fringilla sit amet arcu eu iaculis.</p>
+        <div class="section">
+          <div class="image_float">
+            <a href="http://www.summerqamp.org/program"><img src="img/qamp.jpg"></a>
+          </div>
+          <div class="info">
+            <h1><a href="http://www.summerqamp.org/program">Summer QAmp</a></h1>
+            <p>The goal of SummerQAmp is to introduce Quality Assurance (QA) as a potential career path to American youth (ages 18-24) who are unaware of the opportunity by allowing them to gain valuable work experience as summer interns at software companies.</p>
           </div>
         </div>
         
-        <div class="row">
-          <div class="large-3 columns">
-            <img src="img/testimage.png">
+        <div class="section">
+          <div class="image_float">
+            <a href="http://apply.hackny.org/"><img src="img/hackny.jpg"></a>
           </div> 
-          <div class="large-9 columns">
-            <h1>Sample Resource</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id urna eu tellus vestibulum viverra. Mauris ac nulla dolor. Proin quam tortor, sollicitudin vitae magna vel, pellentesque varius elit. Fusce quis nulla nisl. Morbi sagittis nulla egestas interdum elementum. Sed interdum interdum felis. Nunc eget faucibus nibh. Ut fringilla sit amet arcu eu iaculis.</p>
+          <div class="info">
+            <h1><a href="http://apply.hackny.org/">HackNY</a></h1>
+            <p>For anyone with coding experience. The hackNY Fellows program, now entering its fifth year, is an intense program designed to introduce students to NYC's startup ecosystem by pairing the best technical minds with great New York startups.</p>
           </div>
         </div>
 
+        <div class="section">
+          <div class="image_float">
+            <a href="https://www.google.com/url?q=https://www.facebook.com/careers/university/fbu"><img src="img/facebook.jpg"></a>
+          </div> 
+          <div class="info">
+            <h1><a href="https://www.google.com/url?q=https://www.facebook.com/careers/university/fbu">Facebook U</a></h1>
+            <p>For rising college Sophomores. FBU is a paid eight-week summer internship designed to provide iOS development experience to students who are historically under-represented in computer science.</p>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="image_float">
+            <a href="https://www.google.com/about/careers/search?src=Online/TOPs/NA+Tech+University#!t=jo&jid=3823002"><img src="img/google.jpg"></a>
+          </div> 
+          <div class="info">
+            <h1><a href="https://www.google.com/about/careers/search?src=Online/TOPs/NA+Tech+University#!t=jo&jid=3823002">Google Engineering Practicum</a></h1>
+            <p>For rising college Sophomores and Juniors. The Engineering Practicum program is a 12-week developmental opportunity for first and second-year undergraduate students with a passion for technology -- especially students from historically underrepresented groups in the field.</p>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="image_float">
+            <a href="http://careers.microsoft.com/careers/en/us/university-programs.aspx#tab_explore-microsoft-program-overview"><img src="img/microsoft.jpg"></a>
+          </div> 
+          <div class="info">
+            <h1><a href="http://careers.microsoft.com/careers/en/us/university-programs.aspx#tab_explore-microsoft-program-overview">Microsoft Explore Program</a></h1>
+            <p>For rising college Sophomores and Juniors. Explore Microsoft is a 12-week summer internship program that is specifically designed for college underclassmen (freshmen and sophomores) and offers a rotational experience aimed to enable you to gain experience in our different software engineering roles. </p>
+          </div>
+        </div>
+        
+
 
        </div>
+       <?php include 'footer.html' ?>
       </div>
 
     <script src="js/jquery.js"></script>

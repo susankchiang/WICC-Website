@@ -26,6 +26,7 @@
             <li><img src="img/group4.jpg"></li>
           </ul>
        </div>
+       <?php include 'footer.html' ?>
       </div>
 
     <script src="js/jquery.js"></script>

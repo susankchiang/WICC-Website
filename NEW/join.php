@@ -22,6 +22,7 @@
           <br><br><br>
           <a class="button" href="https://docs.google.com/a/cornell.edu/forms/d/1VLRzezmaTLXU-k8zregnfkLVoQtFOTMVcw4cmh9J6D4/viewform">Sign Up</a>
        </div>
+       <?php include 'footer.html' ?>
       </div>
 
     <script src="js/jquery.js"></script>

@@ -19,9 +19,14 @@
       <?php include 'menu.html' ?>
 
       <div class="large-10 columns">
-          <p>stuff here.</p>
+          <p><b>Email:</b> <a href="mailto:wicc@cornell.edu">wicc@cornell.edu</a></p>
+          <p><b>Facebook:</b></p>
+          <p><a href="https://www.facebook.com/CornellWomenInComputing">Follow Us</a></p>
+          <p><b></b> <a href="https://www.facebook.com/groups/467594836608391/">Join Our Group</a></p>
        </div>
+      <?php include 'footer.html' ?>
       </div>
+
 
     <script src="js/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
